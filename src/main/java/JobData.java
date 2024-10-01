@@ -135,24 +135,7 @@ public class JobData {
     }
 
 
-    /*
-    This is from the studio counting characters: We looped over each letter
 
-            char[] charactersInString = quote.toUpperCase().toCharArray();
-
-        HashMap<Character, Integer> charactersMap = new HashMap<>();
-
-        for (char letter : charactersInString) {
-
-
-            if (charactersMap.containsKey(letter)) {
-                charactersMap.put(letter, charactersMap.get(letter) + 1);
-            } else {
-                charactersMap.put(letter, 1);
-            }
-
-        }
-     */
 
     /**
      * Read in data from a CSV file and store it in a list
