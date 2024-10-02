@@ -126,10 +126,6 @@ public class TechJobs {
     // Print a list of jobs
 
 
-    //TODO: Create a loop and iterate over the ArrayList of jobs
-    //I probably need to create a getter for allJobs ArrayList so I can retrieve the jobs from it
-    //When I choose List and All it prints out all the jobs with this code. But, when I pick different List choices
-    //it doesn't print. I am assuming I will need to write some conditionals eventually
 
 
     private static void printJobs(ArrayList<HashMap<String, String>> jobs) {
