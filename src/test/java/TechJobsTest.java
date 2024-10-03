@@ -14,7 +14,7 @@ import org.junit.Test;
 /**
  * Created by LaunchCode
  */
-public class .0.TechJobsTest {
+public class TechJobsTest {
 
     private static ByteArrayOutputStream baos;
 
